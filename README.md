@@ -4,7 +4,7 @@
 
 
 Ссылка на githubPage:
-https://github.com/IrisProg/diplom_js
+https://irisprog.github.io/diplom_js/
 
 
 ## Создание «информационной системы для предварительного бронирования билетов».
